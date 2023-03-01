@@ -1,2 +1,2 @@
 # MahmudRepository
-ABAP repoditory
+ABAP repository
